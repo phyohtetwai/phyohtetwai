@@ -1,4 +1,4 @@
-# Hi there, I'm Phyohtet Wai 👋
+# Hi there, I'm Phyo Htet Wai 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning.
 
